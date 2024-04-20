@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ak-yerima-a69144195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-ak-yerima-a69144195/" height="30" width="40" /></a>
 <a href="https://kaggle.com/mckaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mckaka" height="30" width="40" /></a>
 <a href="https://instagram.com/mc_ak_yerima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mc_ak_yerima" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@mcakyerima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mcakyerima" height="30" width="40" /></a>
+<a href="https://medium.com/@mcakyerima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mcakyerima" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mcakyerima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mcakyerima" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mc_fresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mc_fresh" height="30" width="40" /></a>
 </p>
@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcakyerima&show_icons=true&locale=en" alt="mcakyerima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcakyerima&" alt="mcakyerima" /></p>
-
