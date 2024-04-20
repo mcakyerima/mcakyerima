@@ -1,13 +1,10 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://assets.kpmg.com/is/image/kpmg/ch-blog-ensuring-compliance-when-using-ai-based-tools-header-1400x328:cq5dam.web.2000.500)](https://github.com/mcakyerima)
 
 <h1 align="center">Hi 👋, I'm Mohammed Ak Yerima</h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 Passionate UX/UI Designer | 🤖 A.I & Machine Learning Enthusiast | DevOps Expert ♻ | Tech Advocate 👨🏻‍💻 | 🌟 Crafting Ingenious Software & Daring Interaction Concepts</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcakyerima&label=Profile%20views&color=0e75b6&style=flat" alt="mcakyerima" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcakyerima" alt="mcakyerima" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1d42d8178614ebf9d0895fab87d7c46f3a91c134c575f026b8e1eba0c6167c75/68747470733a2f2f7777772e6976656e7472612e636f6d2f6173736574732f696d616765732f62672f6261636b2d656e642d646576656c6f7065722e676966">
 
 - 🔭 Currently working on: LLM Agents
 
