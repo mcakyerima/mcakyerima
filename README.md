@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcakyerima&show_icons=true&locale=en&layout=compact" alt="mcakyerima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcakyerima&show_icons=true&locale=en" alt="mcakyerima" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcakyerima&" alt="mcakyerima" /></p>
