@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: Next.js, AI, ML, databases, servers, load balancers, and anything tech-related!
 
-- 📫 How to reach me: +2347085493100
+- 📫 How to reach me: (whatsApp): +2347085493100  | mail: <a>mcakyerima@gmail.com</a>
 
 - ⚡ Fun fact: I absolutely love learning new things!
 
