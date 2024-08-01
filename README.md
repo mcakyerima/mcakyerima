@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on: LLM Agents
 
-- 🌱 Currently learning: Enhancing LLM response using an Agentic approach
+- 🌱 Currently learning: LLM Memory Networks, RAG (Retrieval-Augmented Generation), Transfer Learning.
 
 - 💬 Ask me about: Next.js, AI, ML, databases, servers, load balancers, and anything tech-related!
 
